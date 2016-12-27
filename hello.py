@@ -1,5 +1,1 @@
-Hello Git
-Hello World
-Hello Three
-Hello Work
-hello desktop
+Use Desktop to Commit
