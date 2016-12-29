@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Git test pull in master.
 Use A
 Use B
+Use C
